@@ -20,10 +20,11 @@ A simple command-line quiz game that tests your general knowledge. The quiz cove
 
 ## Usage
 
-Run the application: python quiz.py
+Run the application: 
+    python quiz.py
 
 Workflow: 
-1. Answer Questions: Read each question and choose the correct answer by entering the corresponding number (1-4).
-2. Feedback: After each answer, you'll receive immediate feedback.
-3. Final Score: At the end of the quiz.
-4. Replay: To play again, simply rerun the script.
+    1. Answer Questions: Read each question and choose the correct answer by entering the corresponding number (1-4).
+    2. Feedback: After each answer, you'll receive immediate feedback.
+    3. Final Score: At the end of the quiz.
+    4. Replay: To play again, simply rerun the script.
