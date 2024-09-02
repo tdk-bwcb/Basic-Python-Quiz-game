@@ -16,7 +16,7 @@ A simple command-line quiz game that tests your general knowledge. The quiz cove
 ## Installation
 
 1. Clone the repository to your local machine: git clone https://github.com/tdk-bwcb/Basic-Python-Quiz-game.git
-2. Navigate to the project directory: cd your-Basic-Python-Quiz-game.git
+2. Navigate to the project directory: cd your-Basic-Python-Quiz-game
 
 ## Usage
 
